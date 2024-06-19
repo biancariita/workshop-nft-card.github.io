@@ -16,6 +16,3 @@ Você pode personalizar o cartão de pré-visualização de NFT editando os arqu
 Tecnologias Utilizadas
 HTML5: Para estruturação do conteúdo.
 CSS3: Para estilização do conteúdo.
-
-Contribuição
-Contribuições são bem-vindas! Se você tiver alguma sugestão ou melhoria, sinta-se à vontade para enviar um pull request. Por favor, certifique-se de que suas alterações estejam bem documentadas.
